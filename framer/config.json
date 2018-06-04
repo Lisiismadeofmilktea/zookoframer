@@ -1,0 +1,35 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 667,
+  "contentScale" : 1,
+  "fullScreen" : false,
+  "cachedDeviceWidth" : 375,
+  "deviceType" : "apple-iphone-7-rose-gold",
+  "sharedPrototype" : 0,
+  "propertyPanelToggleStates" : {
+
+  },
+  "projectId" : "D261FF89-5459-43F0-A75F-6043E41F8D43",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : true,
+  "foldedCodeRanges" : [
+    "{1576, 1999}",
+    "{3602, 1319}",
+    "{4941, 3007}",
+    "{7973, 1575}",
+    "{9566, 888}",
+    "{10479, 779}",
+    "{11279, 1483}",
+    "{12786, 521}",
+    "{13323, 622}",
+    "{13974, 807}",
+    "{14796, 667}",
+    "{15484, 956}",
+    "{16466, 3051}",
+    "{20494, 779}"
+  ],
+  "deviceScale" : "fit"
+}
